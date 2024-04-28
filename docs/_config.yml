@@ -2,9 +2,9 @@
 title: Viol Making Symposium
 email: info@violmaking.org
 description: > # this means to ignore newlines until "baseurl:"
-   A one-day symposium about making the Viola da Gamba or Viol, hosted 
-   at West Dean College in Sussex, featuring speakers on aspects of viol construction, restoration, 
-   decoration and setup
+   A one-day symposium about making the Viol, also known as the Viola da Gamba.
+   The meeting on the 4th October 2024 features speakers on aspects of viol construction, restoration and performance.
+   It is hosted at West Dean College, Sussex, UK. 
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://violmaking.org" # the base hostname & protocol for your site
 twitter_username: 
