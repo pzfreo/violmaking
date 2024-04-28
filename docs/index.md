@@ -24,11 +24,8 @@ The organisers are working to have talks on aspects of making and restoring viol
 
 [Find West Dean on Google Maps](https://www.google.co.uk/maps/place/West+Dean+College/@50.9064568,-0.7746854,16z/data=!4m2!3m1!1s0x48744c92a7414307:0x4339e59f706d79af)
 
-West Dean
-
-Nr Chichester
-
-West Sussex
-
-PO18 0QZ
+West Dean\
+Nr Chichester\
+West Sussex\
+PO18 0QZ\
 
