@@ -27,5 +27,5 @@ The organisers are working to have talks on aspects of making and restoring viol
 West Dean\
 Nr Chichester\
 West Sussex\
-PO18 0QZ\
+PO18 0QZ
 
