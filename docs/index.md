@@ -3,7 +3,7 @@ layout: home
 ---
 October 4th, 2024 at West Dean College, Sussex, UK
 
-*9:30am to 5:00pm*
+*9:30am to 5:30pm*
 
 ### **Bookings** 
 
